@@ -1,5 +1,5 @@
 ---
-animation: bounce
+animation: slideInRight
 title: "James Warnken "
 description: "Hello, my name is James Warnken and this is my first website. "
 part_of_speech: noun
